@@ -148,7 +148,7 @@ nav ul li {
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-left: 76px;
+        margin-left: 0px;
         flex-direction: column;
 
     }
